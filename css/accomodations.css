@@ -1,0 +1,13 @@
+h1 {
+  border: #394456 solid 2px;
+  padding: 4px;
+  background-color: black;
+  text-align: center;
+  text-shadow: 2px;
+  color: white;
+  border-radius: 10px;
+}
+
+body {
+  background-color: #345c9e;
+}
