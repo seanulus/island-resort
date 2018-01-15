@@ -11,3 +11,8 @@ h1 {
 body {
   background-color: #345c9e;
 }
+
+h2 {
+  text-align: center;
+  font-style: italic;
+}
