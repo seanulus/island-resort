@@ -39,8 +39,8 @@ p.special {
 
 img {
   float: right;
+  margin-top: 2em;
 }
-
 .push-right {
   float: right;
 }
